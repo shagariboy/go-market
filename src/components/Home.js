@@ -30,7 +30,7 @@ export default function Example() {
                       <div className="w-20">
                           <a className=" h-1/3 py-5 w-full rounded-tr-md inline-block box-border border-b-2 border-white bg-yellow-200 text-gray-500 text-center transform transition hover:text-blue-400 hover:bg-yellow-100"
                               href="https://github.com/BeaCox" target="_blank" rel="noreferrer">
-                              <p className="social"><i className="iconfont icon-github"></i></p>
+                              <p className="social"><i className="iconfont icon-call"></i></p>
                           </a>
                           <a className=" h-1/3 py-5 w-full block box-border border-b-2 border-white bg-yellow-200 text-gray-500 text-center transform transition hover:text-blue-400 hover:bg-yellow-100"
                               href="https://t.me/BeaCox" target="_blank" rel="noreferrer">
@@ -44,9 +44,9 @@ export default function Example() {
                   </div>
               </div>
               <div
-                  className="w-11/12 h-auto mx-auto mt-6 shadow-lg rounded-lg  transform transition hover:shadow-xl hover:-translate-y-0.5 lg:w-6/12 dark:bg-gray-800">
+                  className="w-11/12 h-auto mx-auto mt-6 shadow-lg rounded-lg  transform transition hover:shadow-xl active:-translate-y-0.5 lg:w-6/12 dark:bg-gray-800">
                   <div className="mx-6 my-4 font-sans text-center dark:text-gray-400">
-                  <h3 className="tracking-[0.5rem] text-[#03dac6] even:transition-all duration-[0.3s] ease-[ease] z-[3] m-0 pb-2"><span className="m">G</span><span className="m">O</span><span className="m">I</span><span className="m">N</span><span className="m">G</span><span className="m">&nbsp;</span><span className="m">T</span><span className="m">O</span><span className="m">&nbsp;</span><span className="m">M</span><span className="m">A</span><span className="m">R</span><span className="m">K</span><span className="m">E</span><span className="m">T</span><span className="m">&nbsp;</span><span className="m">M</span><span className="m">A</span><span className="m">D</span><span className="m">E</span><span className="m">&nbsp;</span><span className="m">E</span><span className="m">A</span><span className="m">S</span><span className="m">Y</span></h3>
+                  <h3 className="tracking-[0.5rem] text-[#dab303] first:animate-pulse first:transition-all duration-[0.3s] ease-[ease] z-[3] m-0 pb-2"><span className="m">G</span><span className="m">O</span><span className="m">I</span><span className="m">N</span><span className="m">G</span><span className="m">&nbsp;</span><span className="m">T</span><span className="m">O</span><span className="m">&nbsp;</span><span className="m">M</span><span className="m">A</span><span className="m">R</span><span className="m">K</span><span className="m">E</span><span className="m">T</span><span className="m">&nbsp;</span><span className="m">M</span><span className="m">A</span><span className="m">D</span><span className="m">E</span><span className="m">&nbsp;</span><span className="m">E</span><span className="m">A</span><span className="m">S</span><span className="m">Y</span></h3>
                       
                   </div>
               </div>
