@@ -1,4 +1,7 @@
 import React from "react";
+import { Link } from "react-router-dom";
+
+
 
 export default function Example() {
   return (
@@ -36,10 +39,11 @@ export default function Example() {
               </h3>
             </div>
           </div>
-
+          
           <button className="hover:animate-pulse animate-[ping_3s_ease-in-out_infinite] cursor-pointer float-left min-w-[150px] max-w-[250px] block align-middle relative z-[1] m-[1em] border-[none] dark:bg-gray-800 h-12 text-[#dab303] transition-[background-color] duration-[0.3s,color] delay-[0.3s] px-[43px] py-3 hover:text-white hover:bg-[#dab303]  rounded-md">
-            Enter Market!
+          <Link to="/SignIn">Enter Market!</Link>
           </button>
+          
         </div>
 
         <div className="flex">
